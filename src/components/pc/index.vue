@@ -15,34 +15,34 @@
                 <div class="et-l et-l--post">
                   <div class="et_builder_inner_content et_pb_gutters3">
                     <div
-                      class="et_pb_section  et_animated et_pb_with_background et_section_regular"
-                      style="background-position: top center;background-image: url(http://rooan.cn/wp-content/uploads/2020/10/轮播001.jpg) !important;"
+                      class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular et_had_animation"
+                      style=""
                     >
-                      <div class="et_pb_row et_pb_row_0 et_animated">
+                      <div
+                        class="et_pb_row et_pb_row_0 et_had_animation"
+                        style=""
+                      >
                         <div
                           class="et_pb_column et_pb_column_4_4 et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child"
                         >
                           <div
-                            class="et_pb_with_border et_pb_module et_animated et_hover_enabled et_pb_text_align_left et_pb_bg_layout_dark et_pb_no_bg"
+                            class="et_pb_with_border et_pb_module et_pb_cta_0 et_hover_enabled et_pb_promo et_pb_text_align_left et_pb_bg_layout_dark et_pb_no_bg et_had_animation"
+                            style=""
                           >
                             <div class="et_pb_promo_description">
-                              <h1 class="module_header">110英亩林区码头</h1>
+                              <h1 class="et_pb_module_header">
+                                110英亩林区码头
+                              </h1>
                               <div>
-                                <p
-                                  style="
-                                    text-align: left;
-                                    font-family: 'Lato', Helvetica, Arial,
-                                      Lucida, sans-serif;
-                                    font-size: 20px;
-                                    line-height: 1.8em;
-                                  "
-                                >
+                                <p style="text-align: left">
                                   约475736公顷林地、出木总量为约1600万m³
                                 </p>
                               </div>
                             </div>
                             <div class="et_pb_button_wrapper">
-                              <a class="et_button et_pb_promo_button" href="#"
+                              <a
+                                class="et_pb_button et_pb_promo_button"
+                                href="#"
                                 >绿色生态</a
                               >
                             </div>

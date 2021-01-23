@@ -2,7 +2,7 @@
   <div>
     <!-- 头部 -->
     <pcenheaderview></pcenheaderview>
-   
+
     <!-- 中间 -->
     <div id="page-container">
       <div id="et-main-area">
@@ -692,10 +692,11 @@
                           class="et_pb_column et_pb_column_4_4 et_pb_column_13 et_pb_css_mix_blend_mode_passthrough et-last-child"
                         >
                           <div
-                            class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module"
+                            class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module et_had_animation"
+                            style=""
                           >
                             <a
-                              class="et_pb_button et_pb_button_2 et_animated et_pb_bg_layout_dark"
+                              class="et_pb_button et_pb_button_2 et_pb_bg_layout_dark"
                               href=""
                               >more+</a
                             >

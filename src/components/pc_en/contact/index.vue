@@ -223,13 +223,7 @@
                                   </p>
                                 </div>
                                 <!-- .et_pb_contact_right -->
-                                <button
-                                  type="submit"
-                                  name="et_builder_submit_button"
-                                  class="et_pb_contact_submit et_pb_button"
-                                >
-                                  SUBRMIT INFORMATION
-                                </button>
+                                <button type="submit" name="et_builder_submit_button" class="et_pb_contact_submit et_pb_button">SUBRMIT INFORMATION</button>
                               </div>
                               <input
                                 type="hidden"
